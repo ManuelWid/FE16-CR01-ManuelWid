@@ -6,9 +6,7 @@ html, body {
     font-size: 1vw;
 }
 
-/* * {
-    border: 1px solid red;
-} */
+/* NAVBAR SECTION */
 
 nav {
     position: relative;
@@ -59,6 +57,7 @@ nav button:hover {
     background-color: rgb(117, 28, 28);
 }
 
+/* HERO SECTION */
 .hero {
     position: relative;
     line-height: .3em;
@@ -86,6 +85,8 @@ nav button:hover {
     bottom: 1.3vw;
     width: 10vw;
 }
+
+/* MAIN SECTION */
 
 .content {
     position: relative;
@@ -138,6 +139,8 @@ nav button:hover {
     width: 50%;
     font-size: 1vw;
 }
+
+/* FOOTER SECTION */
 
 footer {
     clear: both;
