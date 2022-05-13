@@ -58,15 +58,16 @@ nav button:hover {
 }
 
 /* HERO SECTION */
+
 .hero {
     position: relative;
     line-height: .3em;
     font-size: 1.5vw;
-}
+    height: 25vw;
+    background-image: url("../pics/keyboard.jpg");
+    background-position: bottom;
+    background-size: cover;
 
-.hero > img {
-    position: inherit;
-    width: 100%;
 }
 
 #herobody {
